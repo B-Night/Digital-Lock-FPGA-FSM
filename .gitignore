@@ -1,0 +1,4 @@
+work/
+*.wlf
+*.bak
+modelsim.ini
